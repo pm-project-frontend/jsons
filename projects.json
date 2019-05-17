@@ -1,0 +1,32 @@
+[
+    {
+        "id": "p1",
+        "organization": "Development",
+        "projectName": "Product Code 332",
+        "status": "Open",
+        "dueDate": "30.06.2020",
+        "version": "3.5",
+        "description": "Do not have to display this. Just for if we find where to put it.",
+        "issues": ["p1i1"]
+    },
+    {
+        "id": "p2",
+        "organization": "QA",
+        "projectName": "Testing Product Code 332",
+        "status": "Open",
+        "dueDate": "22.09.2020",
+        "version": "3.5",
+        "description": "Do not have to display this. Just for if we find where to put it.",
+        "issues": ["p2i2","p3i2"]
+    },
+    {
+        "id": "p3",
+        "organization": "Management",
+        "projectName": "Budget planning",
+        "status": "Closed",
+        "dueDate": "02.01.2019",
+        "version": "",
+        "description": "Do not have to display this. Just for if we find where to put it.",
+        "issues": []
+    }
+]

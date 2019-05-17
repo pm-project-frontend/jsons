@@ -1,0 +1,78 @@
+[
+  {
+    "id": "p1i1",
+    "project": "p1",
+    "issue_type": "Bug",
+    "reporter": 2,
+    "organization": "Development",
+    "summary": "Very special bug to Fix!",
+    "priority": "High",
+    "dueDate": "30.06.2019",
+    "component": "Component1",
+    "affectedVersion": "Version 1.0",
+    "fixVersion": "3.5",
+    "assignee": 3,
+    "description": "This is a very special issue that needs to be fixed right away! Please look into it and take care.",
+    "comments": [
+      {
+        "userID": 1,
+        "c": "Please check with user for further explanation."
+      },
+      {
+        "userID": 2,
+        "c": "Shure will."
+      }
+    ],
+    "status": "resolved",
+    "watchers": [ 2, 4, 5 ]
+  },
+  {
+    "id": "p2i2",
+    "project": "p2",
+    "issue_type": "New Feature",
+    "reporter": 1,
+    "organization": "QA",
+    "summary": "Problem with component 2.",
+    "priority": "Highest",
+    "dueDate": "10.05.2019",
+    "component": "Component2",
+    "affectedVersion": "Version 1.5",
+    "fixVersion": "3.0",
+    "Assignee": 4,
+    "Description": "Please test this issue and give feedback to customer.",
+    "Comments": [],
+    "status": "open",
+    "watchers": [ 1, 2, 5 ]
+  },
+  {
+    "id": "p3i2",
+    "project": "p3",
+    "issue_type": "Enhancement UI/UX",
+    "reporter": 5,
+    "organization": "Management",
+    "summary": "Change of UI for component 3.",
+    "priority": "Low",
+    "dueDate": "05.05.2019",
+    "component": "Component3",
+    "affectedVersion": "Version 1.5",
+    "fixVersion": "2.5",
+    "Assignee": 1,
+    "Description": "Please make a decision if we are allowed to change UI.",
+    "Comments": [
+      {
+        "userID": 5,
+        "c": "Go on, proceed with work."
+      },
+      {
+        "userID": 3,
+        "c": "Not sure how to proceed."
+      },
+      {
+        "userID": 4,
+        "c": "Arrange consulting."
+      }
+    ],
+    "status": "open",
+    "watchers": [ 2, 3, 4 ]
+  }
+]
