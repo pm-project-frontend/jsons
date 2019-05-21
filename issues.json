@@ -1,7 +1,7 @@
 [
   {
-    "id": "p1i1",
-    "project": "p1",
+    "id": "1",
+    "project": "1",
     "issue_type": "Bug",
     "reporter": 2,
     "organization": "Development",
@@ -27,8 +27,8 @@
     "watchers": [ 2, 4, 5 ]
   },
   {
-    "id": "p2i2",
-    "project": "p2",
+    "id": "2",
+    "project": "2",
     "issue_type": "New Feature",
     "reporter": 1,
     "organization": "QA",
@@ -45,8 +45,8 @@
     "watchers": [ 1, 2, 5 ]
   },
   {
-    "id": "p3i2",
-    "project": "p3",
+    "id": "3",
+    "project": "2",
     "issue_type": "Enhancement UI/UX",
     "reporter": 5,
     "organization": "Management",
