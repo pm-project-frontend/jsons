@@ -52,7 +52,7 @@
     "image": "../pictures/4.jpg",
     "language": "en",
     "status": "active",
-    "assigned_issues": [ "" ],
+    "assigned_issues": [],
     "watched_Issues": [ "1", "2" ]
   },
   {
