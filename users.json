@@ -10,8 +10,8 @@
     "image": "../pictures/1.jpg",
     "language": "en",
     "status": "active",
-    "assigned_issues": [ "p3i2" ],
-    "watched_Issues": [ "p2i2" ]
+    "assigned_issues": [ "3" ],
+    "watched_Issues": [ "2" ]
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "language": "en",
     "status": "active",
     "assigned_issues": [],
-    "watched_Issues": [ "p1i1", "p2i2", "p3i2" ]
+    "watched_Issues": [ "1", "2", "3" ]
   },
   {
     "id": 3,
@@ -38,8 +38,8 @@
     "image": "../pictures/3.jpg",
     "language": "en",
     "status": "active",
-    "assigned_issues": [ "p1i1" ],
-    "watched_Issues":  ["p3i2"]
+    "assigned_issues": [ "1", "2" ],
+    "watched_Issues":  ["3"]
   },
   {
     "id": 4,
@@ -52,8 +52,8 @@
     "image": "../pictures/4.jpg",
     "language": "en",
     "status": "active",
-    "assigned_issues": [ "p2i2" ],
-    "watched_Issues": [ "p1i1", "p3i2" ]
+    "assigned_issues": [ "" ],
+    "watched_Issues": [ "1", "2" ]
   },
   {
     "id": 5,
@@ -66,8 +66,8 @@
     "image": "../pictures/5.jpg",
     "language": "en",
     "status": "active",
-    "assigned_issues": [ "p3i2" ],
-    "watched_Issues": [ "p1i1", "p2i2" ]
+    "assigned_issues": [],
+    "watched_Issues": [ "1", "3" ]
   }
 
 ]
