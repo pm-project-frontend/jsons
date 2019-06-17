@@ -38,9 +38,9 @@
     "component": "Component2",
     "affectedVersion": "Version 1.5",
     "fixVersion": "3.0",
-    "Assignee": 4,
-    "Description": "Please test this issue and give feedback to customer.",
-    "Comments": [],
+    "assignee": 4,
+    "description": "Please test this issue and give feedback to customer.",
+    "comments": [],
     "status": "open",
     "watchers": [ 1, 2, 5 ]
   },
@@ -56,9 +56,9 @@
     "component": "Component3",
     "affectedVersion": "Version 1.5",
     "fixVersion": "2.5",
-    "Assignee": 1,
-    "Description": "Please make a decision if we are allowed to change UI.",
-    "Comments": [
+    "assignee": 1,
+    "description": "Please make a decision if we are allowed to change UI.",
+    "comments": [
       {
         "userID": 5,
         "c": "Go on, proceed with work."
