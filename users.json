@@ -9,7 +9,7 @@
     "email": "zlatko.gornjevski@gmail.com",
     "image": "../pictures/1.jpg",
     "language": "en",
-    "status": "active",
+    "status": "suspended",
     "assigned_issues": [ "3" ],
     "watched_issues": [ "2" ]
   },
