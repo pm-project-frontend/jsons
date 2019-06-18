@@ -5,11 +5,11 @@
     "lastName": "Gornjevski",
     "userName": "zgornje",
     "password": "gor123",
-    "role": "user",
+    "role": "admin",
     "email": "zlatko.gornjevski@gmail.com",
     "image": "../pictures/1.jpg",
     "language": "en",
-    "status": "suspended",
+    "status": "active",
     "assigned_issues": [ "3" ],
     "watched_issues": [ "2" ]
   },
@@ -23,7 +23,7 @@
     "email": "vproko@gmail.com",
     "image": "../pictures/2.jpg",
     "language": "en",
-    "status": "active",
+    "status": "suspended",
     "assigned_issues": [],
     "watched_issues": [ "1", "2", "3" ]
   },
