@@ -13,6 +13,7 @@
     "fixVersion": "3.5",
     "assignee": 3,
     "description": "This is a very special issue that needs to be fixed right away! Please look into it and take care.",
+    "createDate":  "01/05/2019",
     "comments": [
       {
         "userID": 1,
@@ -40,6 +41,7 @@
     "fixVersion": "3.0",
     "assignee": 4,
     "description": "Please test this issue and give feedback to customer.",
+    "createDate": "21/11/2018",
     "comments": [],
     "status": "open",
     "watchers": [ 1, 2, 5 ]
@@ -58,6 +60,7 @@
     "fixVersion": "2.5",
     "assignee": 1,
     "description": "Please make a decision if we are allowed to change UI.",
+    "createDate": "09/09/2019",
     "comments": [
       {
         "userID": 5,

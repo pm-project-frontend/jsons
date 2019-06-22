@@ -5,28 +5,32 @@
         "projectName": "Product Code 332",
         "status": "Open",
         "dueDate": "30.06.2020",
+        "createDate": "12/02/2019",
         "version": "3.5",
         "description": "Do not have to display this. Just for if we find where to put it.",
         "issues": ["1"]
     },
     {
-        "id": "2",
-        "organization": "QA",
-        "projectName": "Testing Product Code 332",
-        "status": "Open",
-        "dueDate": "22.09.2020",
-        "version": "3.5",
-        "description": "Do not have to display this. Just for if we find where to put it.",
-        "issues": ["2","3"]
+         "id": "2",
+         "organization": "QA",
+         "projectName": "Testing Product Code 332",
+         "status": "Open",
+         "dueDate": "22.09.2020",
+         "createDate": "10/09/2018",
+         "version": "3.5",
+         "description": "Do not have to display this. Just for if we find where to put it.",
+         "issues": [ "2", "3" ]
     },
-    {
-        "id": "3",
-        "organization": "Management",
-        "projectName": "Budget planning",
-        "status": "Closed",
-        "dueDate": "02.01.2019",
-        "version": "",
-        "description": "Do not have to display this. Just for if we find where to put it.",
-        "issues": []
-    }
+  {
+    "id": "3",
+    "organization": "Management",
+    "projectName": "Budget planning",
+    "status": "Closed",
+    "dueDate": "02.01.2019",
+    "createDate": "01/003/2018",
+
+    "version": "",
+    "description": "Do not have to display this. Just for if we find where to put it.",
+    "issues": []
+  }
 ]
