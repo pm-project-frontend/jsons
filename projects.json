@@ -4,8 +4,8 @@
         "organization": "Development",
         "projectName": "Product Code 332",
         "status": "Open",
-        "dueDate": "30.06.2020",
-        "createDate": "12/02/2019",
+        "dueDate": "2020-06-20",
+        "createDate": "2019-02-12",
         "version": "3.5",
         "description": "Do not have to display this. Just for if we find where to put it.",
         "issues": ["1"]
@@ -15,8 +15,8 @@
          "organization": "QA",
          "projectName": "Testing Product Code 332",
          "status": "Open",
-         "dueDate": "22.09.2020",
-         "createDate": "10/09/2018",
+         "dueDate": "2020-09-22",
+         "createDate": "2018-09-11",
          "version": "3.5",
          "description": "Do not have to display this. Just for if we find where to put it.",
          "issues": [ "2", "3" ]
@@ -26,8 +26,8 @@
     "organization": "Management",
     "projectName": "Budget planning",
     "status": "Closed",
-    "dueDate": "02.01.2019",
-    "createDate": "01/003/2018",
+    "dueDate": "2019-10-26",
+    "createDate": "2018-03-01",
 
     "version": "",
     "description": "Do not have to display this. Just for if we find where to put it.",
